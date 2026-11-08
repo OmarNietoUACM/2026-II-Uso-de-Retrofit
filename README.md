@@ -12,7 +12,7 @@ leer imágenes disponibles en el servicio web.
 
 
 <div>
-    <img src="./images/MainActivity1.png"  alt="Captura de pantalla de la activity principal con la lista de fotos de marte" width="200" >
+    <img src="./images/mainActivity1.png"  alt="Captura de pantalla de la activity principal con la lista de fotos de marte" width="200" >
 </div>
 <p>
 <b>Figura 1.</b> Captura de pantalla de la Activity principal con la lista de fotos de marte
